@@ -36,7 +36,7 @@
 1. **Клонируйте репозиторий**
    ```bash
    git clone https://github.com/Michael-merlot/ProjectPracticumBVT2201.git
-   cd phone-detection-app
+   cd ProjectPracticumBVT2201
    ```
 
 2. **Установите зависимости**
@@ -191,7 +191,7 @@ CAMERA_SOURCE=http://192.168.1.100:4747/video
 ## Структура проекта
 
 ```
-phone-detection-app/
+ProjectPracticumBVT2201/
 ├── config/                 # Конфигурационные файлы
 │   ├── __init__.py
 │   └── config.py          # Настройки приложения
